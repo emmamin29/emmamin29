@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmamin29)](https://github.com/anuraghazra/github-readme-stats)
-
+github-readme-stats.vercel.app/api/top-langs/?username={emmamin29}&langs_count=8
   <br/>
    📝Contacts
 
