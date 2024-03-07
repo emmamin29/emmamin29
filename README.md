@@ -9,7 +9,7 @@
   👩Pronouns : She/her<br/>
    ✏️I'm currently studying textile system engineering<br/>
    ▶️I'm currently working on ? <br/>
-   🔈I can speak with Korean, English and a bit of Chinese <br/>
+   🔈I can speak with Korean, English and a bit of Chinese 
 
     🛠️Tools <br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
