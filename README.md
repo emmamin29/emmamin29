@@ -9,12 +9,13 @@
 👩Pronouns : She/her<br/>
    ✏️I'm currently studying textile system engineering<br/>
    ▶️I'm currently working on ? <br/>
-
+   
 
   <br/>
-   📝SNS list 
+   📝Contacts
 
   <a href="https://instagram.com/_jminb29" target="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:kimkai114choo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   
 
