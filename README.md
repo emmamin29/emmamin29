@@ -15,7 +15,7 @@
    📝Contacts
 
   <a href="https://instagram.com/_jminb29" target="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:kimkai114choo@gmail.com"><img src="https://img.shields.io/badge/maildotru-005FF9?style=flat-square&logo=mail&logoColor=white"/></a>
+  <a href="mailto:kimkai114choo@gmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=Mail.ru&logoColor=white"/></a>
 
   
 
