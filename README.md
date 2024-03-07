@@ -11,7 +11,8 @@
    ▶️I'm currently working on ? <br/>
    🔈I can speak with Korean, English and a bit of Chinese 
 
-    🛠️Tools <br/>
+    🛠️Tools 
+    
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>    
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>    
