@@ -6,9 +6,12 @@
 
  
  
-👩Pronouns : She/her<br/>
+  👩Pronouns : She/her<br/>
    ✏️I'm currently studying textile system engineering<br/>
    ▶️I'm currently working on ? <br/>
+   🔈I can speak with Korean, English and a bit of Chinese <br/>
+   
+   
     <br/>
     🛠️Tools <br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -18,7 +21,7 @@
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" /></a>
   
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmamin29)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
    📝Contacts
 
