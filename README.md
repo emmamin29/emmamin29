@@ -11,9 +11,10 @@
    ▶️I'm currently working on ? <br/>
     <br/>
     🛠️Tools 
+    
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 
 
